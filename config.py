@@ -1,1 +1,1 @@
-# فایل config.py برای نگهداری توکن و تنظیمات بات
+BOT_TOKEN = "8204837155:AAGEKVqnDUxqJ6kfkCl09UvZEdx00Ajfs8s"
